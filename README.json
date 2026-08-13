@@ -1,0 +1,232 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telegram Бот для подготовки к собеседованию на Frontend разработчика",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-25T15:52:25Z",
+            "owner": "FilimonovAlexey",
+            "repo": "tech-interview-trainer",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram бот обратной связи на JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-25T15:53:41Z",
+            "owner": "FilimonovAlexey",
+            "repo": "YouTubeHelperTgBot",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram бот для управления сервером на JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-25T15:51:04Z",
+            "owner": "FilimonovAlexey",
+            "repo": "ControlServerBot",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Мультиссылка для социальных сетей на React js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-26T12:41:42Z",
+            "owner": "FilimonovAlexey",
+            "repo": "link-bio-page",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram бот фильтр мата на JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-23T11:53:29Z",
+            "owner": "FilimonovAlexey",
+            "repo": "anti-spam-telegram-bot",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Полезные проекты"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T19:54:43Z",
+            "owner": "sorrycc",
+            "repo": "awesome-javascript",
+            "stars": 35019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyJS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T05:18:05Z",
+            "owner": "harryheman",
+            "repo": "my-js",
+            "stars": 563
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-react",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T07:31:52Z",
+            "owner": "enaqx",
+            "repo": "awesome-react",
+            "stars": 74269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Справочник по React JS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T16:21:37Z",
+            "owner": "xsltdev",
+            "repo": "reactdev.ru",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "React JS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Статистика используемых языков",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T00:50:25Z",
+            "owner": "anuraghazra",
+            "repo": "github-readme-stats",
+            "stars": 79838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Коллекция классных Readme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-03T07:35:24Z",
+            "owner": "abhisheknaiidu",
+            "repo": "awesome-github-profile-readme",
+            "stars": 30776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Виджет с наградами пользователя",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T00:05:17Z",
+            "owner": "ryo-ma",
+            "repo": "github-profile-trophy",
+            "stars": 6631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Статистика вашей активности на GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T00:13:02Z",
+            "owner": "vn7n24fzkq",
+            "repo": "github-profile-summary-cards",
+            "stars": 3613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "График вашей активности на GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-17T14:39:05Z",
+            "owner": "Ashutosh00710",
+            "repo": "github-readme-activity-graph",
+            "stars": 2299
+          }
+        }
+      ],
+      "title": "Оформление профиля на GitHub"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:14:48.646Z",
+    "original_repository": "FilimonovAlexey/awesome-frontend-dev",
+    "original_repository_sha": "c523c27e691f4b2c4a7198f55c76cac9365b9386",
+    "enhanced_repository": "enhansome/enhansome-frontend-dev",
+    "enhanced_repository_description": null,
+    "title": "Awesome Полезные материалы по веб-разработке! with stars"
+  }
+}
