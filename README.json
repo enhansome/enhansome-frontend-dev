@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799258178,
             "language": "JavaScript",
             "last_commit": "2024-06-25T15:52:25Z",
             "owner": "FilimonovAlexey",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 793492353,
             "language": "JavaScript",
             "last_commit": "2024-06-25T15:53:41Z",
             "owner": "FilimonovAlexey",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802139418,
             "language": "JavaScript",
             "last_commit": "2024-06-25T15:51:04Z",
             "owner": "FilimonovAlexey",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692389693,
             "language": "JavaScript",
             "last_commit": "2024-06-26T12:41:42Z",
             "owner": "FilimonovAlexey",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797008839,
             "language": "JavaScript",
             "last_commit": "2024-07-23T11:53:29Z",
             "owner": "FilimonovAlexey",
@@ -77,7 +82,7 @@
       "title": "Полезные проекты"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21393871,
             "language": null,
             "last_commit": "2026-08-17T07:30:04Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35016
+            "stars": 35015
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479307650,
             "language": "JavaScript",
             "last_commit": "2026-08-04T05:18:05Z",
             "owner": "harryheman",
@@ -111,7 +118,7 @@
       "title": "JavaScript"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -120,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22670857,
             "language": null,
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74318
+            "stars": 74334
           }
         },
         {
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353497399,
             "language": "Python",
             "last_commit": "2026-04-28T16:21:37Z",
             "owner": "xsltdev",
@@ -145,7 +154,7 @@
       "title": "React JS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -154,11 +163,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278335273,
             "language": "JavaScript",
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79829
+            "stars": 79832
           }
         },
         {
@@ -168,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279064706,
             "language": null,
             "last_commit": "2026-03-03T07:35:24Z",
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30837
+            "stars": 30849
           }
         },
         {
@@ -182,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289523918,
             "language": "TypeScript",
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6636
+            "stars": 6637
           }
         },
         {
@@ -196,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292074617,
             "language": "TypeScript",
             "last_commit": "2026-08-07T00:13:02Z",
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3617
+            "stars": 3618
           }
         },
         {
@@ -210,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311635787,
             "language": "TypeScript",
             "last_commit": "2026-05-17T14:39:05Z",
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2302
+            "stars": 2301
           }
         }
       ],
@@ -222,8 +236,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:52:38.868Z",
+    "last_updated": "2026-08-19T12:30:52.907Z",
     "original_repository": "FilimonovAlexey/awesome-frontend-dev",
+    "original_repository_id": 597140416,
     "original_repository_sha": "c523c27e691f4b2c4a7198f55c76cac9365b9386",
     "enhanced_repository": "enhansome/enhansome-frontend-dev",
     "enhanced_repository_description": null,
