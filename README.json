@@ -132,7 +132,7 @@
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74334
+            "stars": 74335
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79832
+            "stars": 79830
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-03-03T07:35:24Z",
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30849
+            "stars": 30851
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6637
+            "stars": 6636
           }
         },
         {
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:52.907Z",
+    "last_updated": "2026-08-19T15:52:10.893Z",
     "original_repository": "FilimonovAlexey/awesome-frontend-dev",
     "original_repository_id": 597140416,
     "original_repository_sha": "c523c27e691f4b2c4a7198f55c76cac9365b9386",
