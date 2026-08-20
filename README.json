@@ -93,10 +93,10 @@
             "archived": false,
             "id": 21393871,
             "language": null,
-            "last_commit": "2026-08-17T07:30:04Z",
+            "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35015
+            "stars": 35018
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 479307650,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T05:18:05Z",
+            "last_commit": "2026-08-20T05:22:05Z",
             "owner": "harryheman",
             "repo": "my-js",
             "stars": 563
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 22670857,
             "language": null,
-            "last_commit": "2026-07-20T07:31:52Z",
+            "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74335
+            "stars": 74343
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79830
+            "stars": 79828
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-03-03T07:35:24Z",
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30851
+            "stars": 30866
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6636
+            "stars": 6637
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-07T00:13:02Z",
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3618
+            "stars": 3623
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-05-17T14:39:05Z",
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2301
+            "stars": 2304
           }
         }
       ],
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:52:10.893Z",
+    "last_updated": "2026-08-20T15:53:57.209Z",
     "original_repository": "FilimonovAlexey/awesome-frontend-dev",
     "original_repository_id": 597140416,
     "original_repository_sha": "c523c27e691f4b2c4a7198f55c76cac9365b9386",
