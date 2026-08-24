@@ -102,7 +102,7 @@
 * [Документация, методология БЭМ](https://ru.bem.info/)
 * [Создание аватара](https://pfpmaker.com/)
 * [Проверка совместимости технологий](https://caniuse.com/)
-* [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection) ⭐ 9,125 | 🐛 24 | 📅 2026-07-15
+* [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection) ⭐ 9,126 | 🐛 24 | 📅 2026-07-15
 * [Иконки](https://thenounproject.com/)
 * [Библиотека кода github](https://grep.app/)
 * [Metanit - сайт о программировании](https://metanit.com/)
@@ -136,7 +136,7 @@
 
 ## Оформление профиля на GitHub
 
-* [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,826 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
+* [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,824 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
 * [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 30,910 | 🐛 708 | 📅 2026-03-03
 * [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,637 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25
 * [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,628 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07
