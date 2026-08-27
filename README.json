@@ -96,7 +96,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35023
+            "stars": 35022
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74402
+            "stars": 74407
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79831
+            "stars": 79840
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-03-03T07:35:24Z",
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30928
+            "stars": 30933
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6637
+            "stars": 6638
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-07T00:13:02Z",
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3633
+            "stars": 3634
           }
         },
         {
@@ -236,9 +236,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:27.830Z",
-    "original_repository": "FilimonovAlexey/awesome-frontend-dev",
-    "original_repository_id": 597140416,
+    "last_updated": "2026-08-27T11:44:06.196Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 597140416,
+      "language": null,
+      "last_commit": "2025-05-06T15:00:22Z",
+      "owner": "FilimonovAlexey",
+      "repo": "awesome-frontend-dev",
+      "stars": 602
+    },
     "original_repository_sha": "c523c27e691f4b2c4a7198f55c76cac9365b9386",
     "enhanced_repository": "enhansome/enhansome-frontend-dev",
     "enhanced_repository_description": null,
