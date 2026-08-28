@@ -96,7 +96,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35021
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74407
+            "stars": 74416
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-03-03T07:35:24Z",
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30933
+            "stars": 30938
           }
         },
         {
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:06.196Z",
+    "last_updated": "2026-08-28T00:27:37.007Z",
     "original_repository_info": {
       "archived": false,
       "id": 597140416,
@@ -244,7 +244,7 @@
       "last_commit": "2025-05-06T15:00:22Z",
       "owner": "FilimonovAlexey",
       "repo": "awesome-frontend-dev",
-      "stars": 602
+      "stars": 601
     },
     "original_repository_sha": "c523c27e691f4b2c4a7198f55c76cac9365b9386",
     "enhanced_repository": "enhansome/enhansome-frontend-dev",

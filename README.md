@@ -61,7 +61,7 @@
 
 ## JavaScript
 
-* [Awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,022 | 🐛 31 | 📅 2026-08-19
+* [Awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,021 | 🐛 31 | 📅 2026-08-19
 * [MyJS](https://github.com/harryheman/my-js) ⭐ 563 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20
 * [Современный учебник JavaScript](https://learn.javascript.ru/)
 * [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
@@ -74,7 +74,7 @@
 
 ## React JS
 
-* [Awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,407 | 🐛 82 | 📅 2026-08-20
+* [Awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,416 | 🐛 82 | 📅 2026-08-20
 * [Справочник по React JS](https://github.com/xsltdev/reactdev.ru) ⭐ 213 | 🐛 0 | 🌐 Python | 📅 2026-04-28
 * [Документация](https://ru.reactjs.org/)
 * [Тема на Хабре](https://habr.com/ru/hub/reactjs/)
@@ -102,7 +102,7 @@
 * [Документация, методология БЭМ](https://ru.bem.info/)
 * [Создание аватара](https://pfpmaker.com/)
 * [Проверка совместимости технологий](https://caniuse.com/)
-* [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection) ⭐ 9,129 | 🐛 24 | 📅 2026-07-15
+* [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection) ⭐ 9,130 | 🐛 24 | 📅 2026-07-15
 * [Иконки](https://thenounproject.com/)
 * [Библиотека кода github](https://grep.app/)
 * [Metanit - сайт о программировании](https://metanit.com/)
@@ -137,7 +137,7 @@
 ## Оформление профиля на GitHub
 
 * [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,840 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
-* [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 30,933 | 🐛 709 | 📅 2026-03-03
+* [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 30,938 | 🐛 710 | 📅 2026-03-03
 * [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,638 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25
 * [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,634 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07
 * [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,315 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-17
@@ -226,4 +226,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
