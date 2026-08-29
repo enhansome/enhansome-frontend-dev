@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Бот для подготовки к собеседованию на Frontend разработчика. JavaScript + grammY",
+            "homepage": "https://t.me/Tehnomaniak_trainer_bot",
             "id": 799258178,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-25T15:52:25Z",
+            "open_issues": 0,
             "owner": "FilimonovAlexey",
             "repo": "tech-interview-trainer",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "grammyjs",
+              "javascript",
+              "javascript-bot",
+              "sqlite",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -26,12 +37,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram бот обратной связи. JavaScript + grammY",
+            "homepage": "https://t.me/Tehnomaniac_Helper_bot",
             "id": 793492353,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-25T15:53:41Z",
+            "open_issues": 0,
             "owner": "FilimonovAlexey",
             "repo": "YouTubeHelperTgBot",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "grammy",
+              "javascript",
+              "javascript-bot",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -42,12 +63,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram бот для управления сервером на JavaScript и grammY",
+            "homepage": null,
             "id": 802139418,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-25T15:51:04Z",
+            "open_issues": 0,
             "owner": "FilimonovAlexey",
             "repo": "ControlServerBot",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "grammyjs",
+              "javascript",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -58,12 +88,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Мультиссылка для социальных сетей на React js",
+            "homepage": "https://link-bio-page.vercel.app/",
             "id": 692389693,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-26T12:41:42Z",
+            "open_issues": 1,
             "owner": "FilimonovAlexey",
             "repo": "link-bio-page",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "chakra-ui",
+              "javascript",
+              "linkbio",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -74,12 +114,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Телеграм бот фильтр мата на JavaScript",
+            "homepage": null,
             "id": 797008839,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-07-23T11:53:29Z",
+            "open_issues": 0,
             "owner": "FilimonovAlexey",
             "repo": "anti-spam-telegram-bot",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "grammyjs",
+              "javascript",
+              "telegram-bot",
+              "telegram-bot-js"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         }
@@ -96,12 +146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+            "homepage": null,
             "id": 21393871,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-19T17:00:42Z",
+            "open_issues": 31,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35022,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -112,12 +167,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Руководства, шпаргалки, вопросы и другие материалы по JavaScript, TypeScript, React, Next.js, Node.js, Express, Prisma, GraphQL, Docker, Rust, Go и другим технологиям.",
+            "homepage": "https://my-js.org/",
             "id": 479307650,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T05:22:05Z",
+            "open_issues": 0,
             "owner": "harryheman",
             "repo": "my-js",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "docker",
+              "expressjs",
+              "go",
+              "golang",
+              "javascript",
+              "js",
+              "nextjs",
+              "nodejs",
+              "prisma",
+              "react",
+              "reactjs",
+              "rust",
+              "ts",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         }
@@ -134,12 +209,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome things regarding React ecosystem",
+            "homepage": null,
             "id": 22670857,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-20T07:58:12Z",
+            "open_issues": 83,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74425
+            "stars": 74426,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "react",
+              "react-apps",
+              "react-native",
+              "react-tutorial",
+              "samples",
+              "tutorial",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -150,12 +241,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Справочник React и экосистемы",
+            "homepage": "https://reactdev.ru/",
             "id": 353497399,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-28T16:21:37Z",
+            "open_issues": 0,
             "owner": "xsltdev",
             "repo": "reactdev.ru",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         }
@@ -172,12 +270,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Dynamically generated stats for your github readmes",
+            "homepage": "https://github-readme-stats.vercel.app",
             "id": 278335273,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T00:50:25Z",
+            "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79842
+            "stars": 79842,
+            "topics": [
+              "dynamic",
+              "profile-readme",
+              "readme-generator",
+              "readme-stats",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -188,12 +297,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 A curated list of awesome GitHub Profile which updates in real time ",
+            "homepage": "https://bit.ly/awesome-gh",
             "id": 279064706,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-03T07:35:24Z",
+            "open_issues": 710,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30946
+            "stars": 30945,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "github",
+              "github-profile-readme",
+              "github-readme",
+              "portfolio",
+              "profile-readme"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -204,12 +326,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 Add dynamically generated GitHub Stat Trophies  on your readme",
+            "homepage": "https://github-profile-trophy.vercel.app",
             "id": 289523918,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
+            "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6639
+            "stars": 6639,
+            "topics": [
+              "deno",
+              "github",
+              "github-profile",
+              "github-profile-readme",
+              "github-profile-trophy",
+              "github-readme",
+              "github-readme-trophy",
+              "github-trophy",
+              "hacktoberfest",
+              "rank",
+              "readme",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -220,12 +360,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to generate your GitHub summary card for profile README",
+            "homepage": "https://github-profile-summary-cards.vercel.app/demo",
             "id": 292074617,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T00:13:02Z",
+            "open_issues": 7,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3634
+            "stars": 3634,
+            "topics": [
+              "github-action",
+              "github-profile-readme",
+              "hacktoberfest",
+              "profile-readme",
+              "profile-summary",
+              "readme-stats",
+              "star",
+              "summary-cards",
+              "trigger-action"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         },
@@ -236,12 +391,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dynamically generated activity graph to show your GitHub activities of last 31 days.",
+            "homepage": "https://ashutosh00710.github.io/github-readme-activity-graph",
             "id": 311635787,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-17T14:39:05Z",
+            "open_issues": 11,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2319
+            "stars": 2320,
+            "topics": [
+              "contribution",
+              "dynamic",
+              "github-activity",
+              "graph",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "readme",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
         }
@@ -250,15 +419,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:02:15.009Z",
+    "last_updated": "2026-08-29T04:45:35.635Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
+      "homepage": null,
       "id": 597140416,
       "language": null,
+      "license": null,
       "last_commit": "2025-05-06T15:00:22Z",
+      "open_issues": 6,
       "owner": "FilimonovAlexey",
       "repo": "awesome-frontend-dev",
-      "stars": 601
+      "stars": 601,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "collection",
+        "css",
+        "frontend",
+        "html",
+        "javascript",
+        "nodejs",
+        "react",
+        "readme",
+        "web"
+      ]
     },
     "original_repository_sha": "c523c27e691f4b2c4a7198f55c76cac9365b9386",
     "enhanced_repository": "enhansome/enhansome-frontend-dev",
