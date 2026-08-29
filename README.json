@@ -16,7 +16,8 @@
             "owner": "FilimonovAlexey",
             "repo": "tech-interview-trainer",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "FilimonovAlexey",
             "repo": "YouTubeHelperTgBot",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "FilimonovAlexey",
             "repo": "ControlServerBot",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "FilimonovAlexey",
             "repo": "link-bio-page",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "FilimonovAlexey",
             "repo": "anti-spam-telegram-bot",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         }
       ],
       "title": "Полезные проекты"
@@ -96,8 +101,9 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35021
-          }
+            "stars": 35022
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "harryheman",
             "repo": "my-js",
             "stars": 563
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         }
       ],
       "title": "JavaScript"
@@ -132,8 +139,9 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74416
-          }
+            "stars": 74425
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "xsltdev",
             "repo": "reactdev.ru",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         }
       ],
       "title": "React JS"
@@ -168,8 +177,9 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79840
-          }
+            "stars": 79842
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -183,8 +193,9 @@
             "last_commit": "2026-03-03T07:35:24Z",
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30938
-          }
+            "stars": 30946
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -198,8 +209,9 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6638
-          }
+            "stars": 6639
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
             "stars": 3634
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         },
         {
           "node_type": "item",
@@ -228,15 +241,16 @@
             "last_commit": "2026-05-17T14:39:05Z",
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2315
-          }
+            "stars": 2319
+          },
+          "first_seen": "2026-08-29T00:02:15.009Z"
         }
       ],
       "title": "Оформление профиля на GitHub"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:27:37.007Z",
+    "last_updated": "2026-08-29T00:02:15.009Z",
     "original_repository_info": {
       "archived": false,
       "id": 597140416,
