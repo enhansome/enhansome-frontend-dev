@@ -152,10 +152,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-19T17:00:42Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35024,
+            "stars": 35023,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-20T07:58:12Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74434,
+            "stars": 74451,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79845,
+            "stars": 79841,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-03T07:35:24Z",
-            "open_issues": 711,
+            "open_issues": 712,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30949,
+            "stars": 30957,
             "topics": [
               "awesome",
               "awesome-list",
@@ -332,7 +332,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
             "stars": 6641,
@@ -369,7 +369,7 @@
             "open_issues": 7,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3635,
+            "stars": 3637,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:40:21.932Z",
+    "last_updated": "2026-08-30T18:39:51.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
