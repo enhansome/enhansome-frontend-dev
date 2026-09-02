@@ -151,11 +151,11 @@
             "id": 21393871,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-19T17:00:42Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-02T08:48:50Z",
+            "open_issues": 21,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35021,
+            "stars": 35023,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -176,7 +176,7 @@
             "open_issues": 0,
             "owner": "harryheman",
             "repo": "my-js",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "docker",
               "expressjs",
@@ -218,7 +218,7 @@
             "open_issues": 89,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74460,
+            "stars": 74467,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79838,
+            "stars": 79835,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-03T07:35:24Z",
-            "open_issues": 712,
+            "open_issues": 713,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30969,
+            "stars": 30977,
             "topics": [
               "awesome",
               "awesome-list",
@@ -369,7 +369,7 @@
             "open_issues": 9,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3642,
+            "stars": 3644,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:39:05.943Z",
+    "last_updated": "2026-09-02T18:48:27.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
