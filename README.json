@@ -155,7 +155,7 @@
             "open_issues": 21,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35023,
+            "stars": 35024,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-20T07:58:12Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74467,
+            "stars": 74477,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79835,
+            "stars": 79837,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-03T07:35:24Z",
-            "open_issues": 713,
+            "open_issues": 712,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30977,
+            "stars": 30992,
             "topics": [
               "awesome",
               "awesome-list",
@@ -332,7 +332,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
             "stars": 6643,
@@ -365,11 +365,11 @@
             "id": 292074617,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-07T00:13:02Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-03T01:22:36Z",
+            "open_issues": 10,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3644,
+            "stars": 3647,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -400,7 +400,7 @@
             "open_issues": 11,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2329,
+            "stars": 2331,
             "topics": [
               "contribution",
               "dynamic",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:48:27.001Z",
+    "last_updated": "2026-09-03T18:47:24.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
