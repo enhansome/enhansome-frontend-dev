@@ -155,7 +155,7 @@
             "open_issues": 21,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35024,
+            "stars": 35022,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -214,11 +214,11 @@
             "id": 22670857,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-20T07:58:12Z",
-            "open_issues": 90,
+            "last_commit": "2026-09-04T01:13:20Z",
+            "open_issues": 2,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74477,
+            "stars": 74488,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79837,
+            "stars": 79844,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -306,7 +306,7 @@
             "open_issues": 712,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30992,
+            "stars": 30999,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6643,
+            "stars": 6645,
             "topics": [
               "deno",
               "github",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:47:24.214Z",
+    "last_updated": "2026-09-04T18:29:33.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
