@@ -61,7 +61,7 @@
 
 ## JavaScript
 
-* [Awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,022 | 🐛 21 | 📅 2026-09-02
+* [Awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,021 | 🐛 21 | 📅 2026-09-02
 * [MyJS](https://github.com/harryheman/my-js) ⭐ 564 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20
 * [Современный учебник JavaScript](https://learn.javascript.ru/)
 * [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
@@ -74,7 +74,7 @@
 
 ## React JS
 
-* [Awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,488 | 🐛 2 | 📅 2026-09-04
+* [Awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,498 | 🐛 4 | 📅 2026-09-04
 * [Справочник по React JS](https://github.com/xsltdev/reactdev.ru) ⭐ 213 | 🐛 0 | 🌐 Python | 📅 2026-04-28
 * [Документация](https://ru.reactjs.org/)
 * [Тема на Хабре](https://habr.com/ru/hub/reactjs/)
@@ -137,10 +137,10 @@
 ## Оформление профиля на GitHub
 
 * [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,844 | 🐛 293 | 🌐 JavaScript | 📅 2026-08-31
-* [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 30,999 | 🐛 712 | 📅 2026-03-03
-* [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,645 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25
-* [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,647 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-03
-* [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,331 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-17
+* [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,004 | 🐛 712 | 📅 2026-03-03
+* [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,644 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25
+* [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,648 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-03
+* [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,331 | 🐛 12 | 🌐 TypeScript | 📅 2026-05-17
 * [Генератор кастомных бейджей](https://shields.io/)
 * [Генератор Readme](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 * [Генератор Readme](https://profilinator.rishav.dev/)
@@ -226,4 +226,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

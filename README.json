@@ -155,7 +155,7 @@
             "open_issues": 21,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022,
+            "stars": 35021,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74488,
+            "stars": 74498,
             "topics": [
               "awesome",
               "awesome-list",
@@ -306,7 +306,7 @@
             "open_issues": 712,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30999,
+            "stars": 31004,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6645,
+            "stars": 6644,
             "topics": [
               "deno",
               "github",
@@ -369,7 +369,7 @@
             "open_issues": 10,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3647,
+            "stars": 3648,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -397,7 +397,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-17T14:39:05Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
             "stars": 2331,
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:29:33.108Z",
+    "last_updated": "2026-09-05T17:24:54.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
