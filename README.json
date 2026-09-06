@@ -218,7 +218,7 @@
             "open_issues": 4,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74498,
+            "stars": 74510,
             "topics": [
               "awesome",
               "awesome-list",
@@ -276,10 +276,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-31T00:55:37Z",
-            "open_issues": 293,
+            "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79844,
+            "stars": 79849,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-03T07:35:24Z",
-            "open_issues": 712,
+            "open_issues": 711,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31004,
+            "stars": 31009,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6644,
+            "stars": 6645,
             "topics": [
               "deno",
               "github",
@@ -369,7 +369,7 @@
             "open_issues": 10,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3648,
+            "stars": 3647,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:24:54.804Z",
+    "last_updated": "2026-09-06T17:37:31.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
@@ -428,10 +428,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-06T15:00:22Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "FilimonovAlexey",
       "repo": "awesome-frontend-dev",
-      "stars": 603,
+      "stars": 604,
       "topics": [
         "awesome-list",
         "awesome-lists",
