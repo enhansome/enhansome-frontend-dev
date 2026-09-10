@@ -218,7 +218,7 @@
             "open_issues": 8,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74540,
+            "stars": 74554,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79845,
+            "stars": 79846,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-03T07:35:24Z",
-            "open_issues": 710,
+            "open_issues": 711,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31026,
+            "stars": 31034,
             "topics": [
               "awesome",
               "awesome-list",
@@ -365,11 +365,11 @@
             "id": 292074617,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T16:24:13Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-10T04:31:59Z",
+            "open_issues": 12,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3649,
+            "stars": 3647,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -400,7 +400,7 @@
             "open_issues": 13,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2329,
+            "stars": 2330,
             "topics": [
               "contribution",
               "dynamic",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:43:41.497Z",
+    "last_updated": "2026-09-10T18:34:07.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
