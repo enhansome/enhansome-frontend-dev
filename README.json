@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35021,
+            "stars": 35028,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74594,
+            "stars": 74601,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79839,
+            "stars": 79836,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 688,
+            "open_issues": 687,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31053,
+            "stars": 31063,
             "topics": [
               "awesome",
               "awesome-list",
@@ -369,7 +369,7 @@
             "open_issues": 12,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3652,
+            "stars": 3653,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -400,7 +400,7 @@
             "open_issues": 13,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2333,
+            "stars": 2334,
             "topics": [
               "contribution",
               "dynamic",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:52:17.100Z",
+    "last_updated": "2026-09-15T19:05:49.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
