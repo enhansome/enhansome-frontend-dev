@@ -172,7 +172,7 @@
             "id": 479307650,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T05:14:40Z",
+            "last_commit": "2026-09-28T11:51:01Z",
             "open_issues": 0,
             "owner": "harryheman",
             "repo": "my-js",
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74735,
+            "stars": 74744,
             "topics": [
               "awesome",
               "awesome-list",
@@ -306,7 +306,7 @@
             "open_issues": 702,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31184,
+            "stars": 31197,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 35,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6663,
+            "stars": 6665,
             "topics": [
               "deno",
               "github",
@@ -369,7 +369,7 @@
             "open_issues": 12,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3670,
+            "stars": 3673,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:05:04.658Z",
+    "last_updated": "2026-09-28T21:17:02.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
