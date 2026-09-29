@@ -74,7 +74,7 @@
 
 ## React JS
 
-* [Awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,744 | 🐛 19 | 📅 2026-09-04
+* [Awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,744 | 🐛 21 | 📅 2026-09-04
 * [Справочник по React JS](https://github.com/xsltdev/reactdev.ru) ⭐ 216 | 🐛 0 | 🌐 Python | 📅 2026-04-28
 * [Документация](https://ru.reactjs.org/)
 * [Тема на Хабре](https://habr.com/ru/hub/reactjs/)
@@ -136,11 +136,11 @@
 
 ## Оформление профиля на GitHub
 
-* [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,813 | 🐛 295 | 🌐 JavaScript | 📅 2026-08-31
-* [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,197 | 🐛 702 | 📅 2026-09-11
-* [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,665 | 🐛 35 | 🌐 TypeScript | 📅 2026-07-25
-* [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,673 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-10
-* [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,338 | 🐛 16 | 🌐 TypeScript | 📅 2026-05-17
+* [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,819 | 🐛 295 | 🌐 JavaScript | 📅 2026-08-31
+* [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,209 | 🐛 703 | 📅 2026-09-11
+* [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,663 | 🐛 35 | 🌐 TypeScript | 📅 2026-07-25
+* [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,676 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-29
+* [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,340 | 🐛 16 | 🌐 TypeScript | 📅 2026-05-17
 * [Генератор кастомных бейджей](https://shields.io/)
 * [Генератор Readme](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 * [Генератор Readme](https://profilinator.rishav.dev/)
@@ -226,4 +226,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
