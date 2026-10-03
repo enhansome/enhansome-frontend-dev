@@ -155,7 +155,7 @@
             "open_issues": 26,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35032,
+            "stars": 35034,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74782,
+            "stars": 74789,
             "topics": [
               "awesome",
               "awesome-list",
@@ -246,8 +246,8 @@
             "id": 353497399,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-04-28T16:21:37Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-03T18:19:07Z",
+            "open_issues": 1,
             "owner": "xsltdev",
             "repo": "reactdev.ru",
             "stars": 213,
@@ -279,7 +279,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79820,
+            "stars": 79824,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -306,7 +306,7 @@
             "open_issues": 704,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31242,
+            "stars": 31243,
             "topics": [
               "awesome",
               "awesome-list",
@@ -332,7 +332,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
             "stars": 6666,
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:44:58.524Z",
+    "last_updated": "2026-10-03T18:43:46.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
