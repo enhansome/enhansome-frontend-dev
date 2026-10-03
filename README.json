@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Telegram Бот для подготовки к собеседованию на Frontend разработчика",
-          "description": null,
+          "description": "FilimonovAlexey/tech-interview-trainer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Telegram бот обратной связи на JavaScript",
-          "description": null,
+          "description": "FilimonovAlexey/YouTubeHelperTgBot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -59,7 +59,7 @@
         {
           "node_type": "item",
           "title": "Telegram бот для управления сервером на JavaScript",
-          "description": null,
+          "description": "FilimonovAlexey/ControlServerBot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -84,7 +84,7 @@
         {
           "node_type": "item",
           "title": "Мультиссылка для социальных сетей на React js",
-          "description": null,
+          "description": "FilimonovAlexey/link-bio-page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,7 +110,7 @@
         {
           "node_type": "item",
           "title": "Telegram бот фильтр мата на JavaScript",
-          "description": null,
+          "description": "FilimonovAlexey/anti-spam-telegram-bot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -142,7 +142,7 @@
         {
           "node_type": "item",
           "title": "Awesome-javascript",
-          "description": null,
+          "description": "sorrycc/awesome-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -152,7 +152,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-08T21:09:10Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35032,
@@ -163,7 +163,7 @@
         {
           "node_type": "item",
           "title": "MyJS",
-          "description": null,
+          "description": "harryheman/my-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "Awesome-react",
-          "description": null,
+          "description": "enaqx/awesome-react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -218,7 +218,7 @@
             "open_issues": 17,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74777,
+            "stars": 74782,
             "topics": [
               "awesome",
               "awesome-list",
@@ -237,7 +237,7 @@
         {
           "node_type": "item",
           "title": "Справочник по React JS",
-          "description": null,
+          "description": "xsltdev/reactdev.ru",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "Статистика используемых языков",
-          "description": null,
+          "description": "anuraghazra/github-readme-stats",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,7 +293,7 @@
         {
           "node_type": "item",
           "title": "Коллекция классных Readme",
-          "description": null,
+          "description": "abhisheknaiidu/awesome-github-profile-readme",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -306,7 +306,7 @@
             "open_issues": 704,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31239,
+            "stars": 31242,
             "topics": [
               "awesome",
               "awesome-list",
@@ -322,7 +322,7 @@
         {
           "node_type": "item",
           "title": "Виджет с наградами пользователя",
-          "description": null,
+          "description": "ryo-ma/github-profile-trophy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
         {
           "node_type": "item",
           "title": "Статистика вашей активности на GitHub",
-          "description": null,
+          "description": "vn7n24fzkq/github-profile-summary-cards",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -387,7 +387,7 @@
         {
           "node_type": "item",
           "title": "График вашей активности на GitHub",
-          "description": null,
+          "description": "Ashutosh00710/github-readme-activity-graph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:59:18.566Z",
+    "last_updated": "2026-10-03T04:44:58.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
