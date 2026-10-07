@@ -218,7 +218,7 @@
             "open_issues": 19,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74811,
+            "stars": 74812,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79820,
+            "stars": 79819,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 701,
+            "open_issues": 704,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31267,
+            "stars": 31279,
             "topics": [
               "awesome",
               "awesome-list",
@@ -332,7 +332,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
             "stars": 6664,
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3687,
+            "stars": 3690,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:24:32.022Z",
+    "last_updated": "2026-10-07T20:40:34.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
@@ -431,7 +431,7 @@
       "open_issues": 7,
       "owner": "FilimonovAlexey",
       "repo": "awesome-frontend-dev",
-      "stars": 606,
+      "stars": 605,
       "topics": [
         "awesome-list",
         "awesome-lists",
