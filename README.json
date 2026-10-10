@@ -151,8 +151,8 @@
             "id": 21393871,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-08T21:09:10Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-10T10:24:22Z",
+            "open_issues": 27,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35029,
@@ -218,7 +218,7 @@
             "open_issues": 22,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74836,
+            "stars": 74846,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79819,
+            "stars": 79824,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 704,
+            "open_issues": 703,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31294,
+            "stars": 31297,
             "topics": [
               "awesome",
               "awesome-list",
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3688,
+            "stars": 3690,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -400,7 +400,7 @@
             "open_issues": 17,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2342,
+            "stars": 2345,
             "topics": [
               "contribution",
               "dynamic",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:09:20.489Z",
+    "last_updated": "2026-10-10T19:22:36.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
@@ -431,7 +431,7 @@
       "open_issues": 7,
       "owner": "FilimonovAlexey",
       "repo": "awesome-frontend-dev",
-      "stars": 604,
+      "stars": 605,
       "topics": [
         "awesome-list",
         "awesome-lists",
