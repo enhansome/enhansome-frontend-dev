@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74854,
+            "stars": 74865,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79824,
+            "stars": 79832,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 705,
+            "open_issues": 708,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31314,
+            "stars": 31320,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6663,
+            "stars": 6662,
             "topics": [
               "deno",
               "github",
@@ -365,11 +365,11 @@
             "id": 292074617,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T17:56:07Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-12T19:07:26Z",
+            "open_issues": 16,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3690,
+            "stars": 3691,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -400,7 +400,7 @@
             "open_issues": 17,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2344,
+            "stars": 2343,
             "topics": [
               "contribution",
               "dynamic",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:36:39.506Z",
+    "last_updated": "2026-10-12T22:31:33.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
