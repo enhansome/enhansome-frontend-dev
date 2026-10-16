@@ -152,10 +152,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-14T09:42:55Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35026,
+            "stars": 35024,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74908,
+            "stars": 74913,
             "topics": [
               "awesome",
               "awesome-list",
@@ -276,7 +276,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T01:02:55Z",
-            "open_issues": 296,
+            "open_issues": 297,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
             "stars": 79839,
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 712,
+            "open_issues": 716,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31345,
+            "stars": 31351,
             "topics": [
               "awesome",
               "awesome-list",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:15:41.565Z",
+    "last_updated": "2026-10-16T18:51:26.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
