@@ -155,7 +155,7 @@
             "open_issues": 27,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35024,
+            "stars": 35029,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -218,7 +218,7 @@
             "open_issues": 24,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74913,
+            "stars": 74931,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 297,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79839,
+            "stars": 79841,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 716,
+            "open_issues": 719,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31351,
+            "stars": 31358,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6664,
+            "stars": 6663,
             "topics": [
               "deno",
               "github",
@@ -365,11 +365,11 @@
             "id": 292074617,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T07:32:59Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-17T10:22:59Z",
+            "open_issues": 15,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3691,
+            "stars": 3690,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:51:26.901Z",
+    "last_updated": "2026-10-17T17:52:32.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
