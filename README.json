@@ -152,7 +152,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-25T17:49:17Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35039,
@@ -172,7 +172,7 @@
             "id": 479307650,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T04:16:38Z",
+            "last_commit": "2026-10-29T05:25:11Z",
             "open_issues": 0,
             "owner": "harryheman",
             "repo": "my-js",
@@ -218,7 +218,7 @@
             "open_issues": 27,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75084,
+            "stars": 75090,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 296,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79853,
+            "stars": 79858,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 735,
+            "open_issues": 734,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31457,
+            "stars": 31470,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6672,
+            "stars": 6670,
             "topics": [
               "deno",
               "github",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:23:26.734Z",
+    "last_updated": "2026-10-29T20:22:08.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
