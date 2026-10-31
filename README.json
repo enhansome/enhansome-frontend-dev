@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35041,
+            "stars": 35042,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -218,7 +218,7 @@
             "open_issues": 28,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75105,
+            "stars": 75118,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 297,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79863,
+            "stars": 79862,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -306,7 +306,7 @@
             "open_issues": 736,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31483,
+            "stars": 31489,
             "topics": [
               "awesome",
               "awesome-list",
@@ -369,7 +369,7 @@
             "open_issues": 7,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3697,
+            "stars": 3695,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -397,7 +397,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-17T14:39:05Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
             "stars": 2354,
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:57:32.767Z",
+    "last_updated": "2026-10-31T19:23:18.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
