@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35034,
+            "stars": 35032,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -176,7 +176,7 @@
             "open_issues": 0,
             "owner": "harryheman",
             "repo": "my-js",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "docker",
               "expressjs",
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75182,
+            "stars": 75195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 299,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79861,
+            "stars": 79849,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -306,7 +306,7 @@
             "open_issues": 749,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31531,
+            "stars": 31536,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6679,
+            "stars": 6680,
             "topics": [
               "deno",
               "github",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:29:28.573Z",
+    "last_updated": "2026-11-06T20:57:01.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
