@@ -151,7 +151,7 @@
             "id": 21393871,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-25T17:49:17Z",
+            "last_commit": "2026-11-10T18:59:21Z",
             "open_issues": 38,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
@@ -176,7 +176,7 @@
             "open_issues": 0,
             "owner": "harryheman",
             "repo": "my-js",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "docker",
               "expressjs",
@@ -218,7 +218,7 @@
             "open_issues": 36,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75224,
+            "stars": 75235,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 298,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79840,
+            "stars": 79841,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 755,
+            "open_issues": 756,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31564,
+            "stars": 31569,
             "topics": [
               "awesome",
               "awesome-list",
@@ -332,10 +332,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T10:11:32Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6684,
+            "stars": 6685,
             "topics": [
               "deno",
               "github",
@@ -369,7 +369,7 @@
             "open_issues": 9,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3696,
+            "stars": 3697,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:48:23.744Z",
+    "last_updated": "2026-11-10T21:20:36.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
@@ -431,7 +431,7 @@
       "open_issues": 7,
       "owner": "FilimonovAlexey",
       "repo": "awesome-frontend-dev",
-      "stars": 605,
+      "stars": 606,
       "topics": [
         "awesome-list",
         "awesome-lists",
