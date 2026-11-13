@@ -155,7 +155,7 @@
             "open_issues": 38,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35035,
+            "stars": 35034,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.009Z"
@@ -218,7 +218,7 @@
             "open_issues": 39,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75261,
+            "stars": 75269,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 299,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79849,
+            "stars": 79846,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -303,10 +303,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T23:08:19Z",
-            "open_issues": 759,
+            "open_issues": 762,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31592,
+            "stars": 31600,
             "topics": [
               "awesome",
               "awesome-list",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:51:53.299Z",
+    "last_updated": "2026-11-13T21:27:35.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
@@ -431,7 +431,7 @@
       "open_issues": 7,
       "owner": "FilimonovAlexey",
       "repo": "awesome-frontend-dev",
-      "stars": 607,
+      "stars": 606,
       "topics": [
         "awesome-list",
         "awesome-lists",
