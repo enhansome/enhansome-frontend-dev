@@ -176,7 +176,7 @@
             "open_issues": 0,
             "owner": "harryheman",
             "repo": "my-js",
-            "stars": 566,
+            "stars": 565,
             "topics": [
               "docker",
               "expressjs",
@@ -215,10 +215,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75324,
+            "stars": 75335,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 299,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79837,
+            "stars": 79833,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -306,7 +306,7 @@
             "open_issues": 769,
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 31636,
+            "stars": 31644,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 35,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6686,
+            "stars": 6685,
             "topics": [
               "deno",
               "github",
@@ -400,7 +400,7 @@
             "open_issues": 13,
             "owner": "Ashutosh00710",
             "repo": "github-readme-activity-graph",
-            "stars": 2361,
+            "stars": 2359,
             "topics": [
               "contribution",
               "dynamic",
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:37:59.084Z",
+    "last_updated": "2026-11-19T22:41:34.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Подборка полезных материалов для начинающих веб-разработчиков!",
@@ -431,7 +431,7 @@
       "open_issues": 8,
       "owner": "FilimonovAlexey",
       "repo": "awesome-frontend-dev",
-      "stars": 604,
+      "stars": 603,
       "topics": [
         "awesome-list",
         "awesome-lists",
