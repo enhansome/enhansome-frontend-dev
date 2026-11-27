@@ -61,7 +61,7 @@
 
 ## JavaScript
 
-* [Awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,038 | 🐛 47 | 📅 2026-11-26
+* [Awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,035 | 🐛 47 | 📅 2026-11-26
 * [MyJS](https://github.com/harryheman/my-js) ⭐ 565 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29
 * [Современный учебник JavaScript](https://learn.javascript.ru/)
 * [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
@@ -74,7 +74,7 @@
 
 ## React JS
 
-* [Awesome-react](https://github.com/enaqx/awesome-react) ⭐ 75,418 | 🐛 49 | 📅 2026-09-04
+* [Awesome-react](https://github.com/enaqx/awesome-react) ⭐ 75,423 | 🐛 49 | 📅 2026-09-04
 * [Справочник по React JS](https://github.com/xsltdev/reactdev.ru) ⭐ 213 | 🐛 0 | 🌐 Python | 📅 2026-10-03
 * [Документация](https://ru.reactjs.org/)
 * [Тема на Хабре](https://habr.com/ru/hub/reactjs/)
@@ -102,7 +102,7 @@
 * [Документация, методология БЭМ](https://ru.bem.info/)
 * [Создание аватара](https://pfpmaker.com/)
 * [Проверка совместимости технологий](https://caniuse.com/)
-* [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection) ⭐ 9,295 | 🐛 30 | 📅 2026-11-24
+* [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection) ⭐ 9,296 | 🐛 30 | 📅 2026-11-27
 * [Иконки](https://thenounproject.com/)
 * [Библиотека кода github](https://grep.app/)
 * [Metanit - сайт о программировании](https://metanit.com/)
@@ -136,11 +136,11 @@
 
 ## Оформление профиля на GitHub
 
-* [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,841 | 🐛 297 | 🌐 JavaScript | 📅 2026-10-01
-* [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,692 | 🐛 773 | 📅 2026-09-11
-* [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,689 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-27
-* [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,706 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05
-* [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,358 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-15
+* [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,844 | 🐛 297 | 🌐 JavaScript | 📅 2026-10-01
+* [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,695 | 🐛 774 | 📅 2026-09-11
+* [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,690 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-27
+* [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,707 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05
+* [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,359 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-15
 * [Генератор кастомных бейджей](https://shields.io/)
 * [Генератор Readme](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 * [Генератор Readme](https://profilinator.rishav.dev/)
@@ -226,4 +226,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
